@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 1475,
+    "articles": [
+    {
+    "source": {
+    "id": "wired",
+    "name": "Wired"
+    },
+    "author": "Shubham Agarwal",
+    "title": "Audiobook Narrators Fear Spotify Used Their Voices to Train AI",
+    "description": "After a backlash, Spotify has removed a clause that allowed Apple to train machine learning models on some audiobook files.",
+    "url": "https://www.wired.com/story/apple-spotify-audiobook-narrators-ai-contract/",
+    "urlToImage": "https://media.wired.com/photos/63ea9209ec9575838d529923/191:100/w_1280,c_limit/Sec-apple-audio-654716637.jpg",
+    "publishedAt": "2023-02-14T16:03:54Z",
+    "content": "Starling believes Findaway has misused the material that authors and narrators entrusted it with. This is immoral and illegal, Starling told WIRED, Rights holders have the copyrights for the audioboo… [+3066 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.com"
+    },
+    "author": "Thomas Germain",
+    "title": "Google Launches Way for Android Apps to Track You Without Tracking You",
+    "description": "Google unveiled a beta version of its “Privacy Sandbox” for Android Tuesday, part of a years-long effort to transform the business of the internet and make it harder for companies to feast on the buffet that is your personal data. Paradoxically, Google says t…",
+    "url": "https://gizmodo.com/google-android-launches-privacy-sandbox-chrome-cookies-1850112117",
+    "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/a447331720ef1c0099364de8e5df9dfd.jpg",
+    "publishedAt": "2023-02-14T16:00:00Z",
+    "content": "Google unveiled a beta version of its Privacy Sandbox for Android Tuesday, part of a years-long effort to transform the business of the internet and make it harder for companies to feast on the buffe… [+9604 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Oliver Darcy",
+    "title": "Super Bowl had 113 million viewers, the third most-watched TV program ever",
+    "description": "The Super Bowl delivered super ratings for Fox.",
+    "url": "https://www.cnn.com/2023/02/13/media/super-bowl-lvii-ratings-reliable-sources/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230212214951-08-super-bowl-2023.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2023-02-14T03:25:10Z",
+    "content": "The Super Bowl delivered super ratings for Fox. \r\nThe face off between the Philadelphia Eagles and Kansas City Chiefs, a nail biter in which the latter team emerged victorious after a game defining p… [+1798 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "andrew.myrick@futurenet.com (Andrew Myrick)",
+    "title": "Samsung Galaxy S23 Ultra vs. iPhone 14 Pro Max: Battle of the behemoths",
+    "description": "The Apple vs. Samsung debate won't be laid to rest anytime in the near future, especially when you see what both the Galaxy S23 Ultra and iPhone 14 Pro Max have to offer. But which phone should you get?",
+    "url": "https://www.androidcentral.com/phones/samsung-galaxy-s23-ultra-vs-iphone-14-pro-max",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/zctqBk69GjEKiSKhg8UECD-1200-80.jpg",
+    "publishedAt": "2023-02-14T14:30:00Z",
+    "content": "Unless you find yourself looking at one of the fancy new foldable phones, all the options are essentially still the same. This means slabs of glass with a metal frame, and plenty of cameras to go aro… [+13650 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Guardian"
+    },
+    "author": "Keza MacDonald",
+    "title": "TechScape: How Nintendo’s stayed the most innovative tech company of our time",
+    "description": "In this week’s newsletter: It may not seem like a Google, Apple or Meta but the risk-taking Japanese games giant has long been a tech maverick<ul><li>Don’t get TechScape delivered to your inbox? Sign up for the full article here</li></ul>For good and for bad,…",
+    "url": "https://www.theguardian.com/technology/2023/feb/14/techscape-nintendo-innovation-tech-company",
+    "urlToImage": "https://i.guim.co.uk/img/media/2b5e881535efde147ba00a8a357278a703df6512/0_79_4913_2948/master/4913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b28393c8947042e5483b533148fdb19a",
+    "publishedAt": "2023-02-14T11:45:53Z",
+    "content": "For good and for bad, the video games industry is obsessed with novelty. New consoles, new technologies and, of course, new games are what drive headlines. So its easy to overlook one of gamings olde… [+6308 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Zachary McAuliffe",
+    "title": "iOS 16.3.1 Could Break Google Photos App, But There's a Fix - CNET",
+    "description": "Some iPhone users reported their Google Photos app crashed after they downloaded the latest iOS update.",
+    "url": "https://www.cnet.com/tech/services-and-software/ios-16-3-1-could-break-google-photos-app-but-theres-a-fix/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/841aafd023ac4464c6ad450f41ff191be287a050/hub/2022/09/22/3ea50936-673a-498a-88a7-b316bdd9acd6/220922-site-apple-stuff-ep-12-hidden-ios-16-features-2.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2023-02-14T15:46:27Z",
+    "content": "Apple released iOS 16.3.1 on Monday to fix some iPhone issues, but the update seemed to cause problems for people who use Google Photos. Some users on Twitter reported their Google Photos app would c… [+1017 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MacRumors"
+    },
+    "author": "Hartley Charlton",
+    "title": "Only 50% of iPhone Casings Made in India Meet Apple's Quality Standards",
+    "description": "Apple is facing difficulties scaling up its production operations in India amid poor component yields and slow progress, the Financial Times reports.\n\n\n\nImage via iFixit\n\n\n\nThe company is apparently contending with immense difficulties in ramping up productio…",
+    "url": "https://www.macrumors.com/2023/02/14/only-half-of-indian-iphone-casings-meet-standards/",
+    "urlToImage": "https://images.macrumors.com/t/KFulWu2CMmK8tfkRak8L-uKFt8A=/4454x/article-new/2022/09/iPhone-14-Opens-From-Back.jpeg",
+    "publishedAt": "2023-02-14T13:55:26Z",
+    "content": "Apple is facing difficulties scaling up its production operations in India amid poor component yields and slow progress, the Financial Times reports.\r\nThe company is apparently contending with immens… [+1653 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "mfox@businessinsider.com (Matthew Fox)",
+    "title": "These are the top 10 holdings of the Mormon Church's $44 billion stock portfolio",
+    "description": "The Mormon Church's $100 billion investment portfolio wasn't revealed to the public until 2019 when a former employee filed a whistleblower complaint.",
+    "url": "https://markets.businessinsider.com/news/stocks/mormon-church-stock-portfolio-top-10-holdings-ensign-peak-advisors-2023-2",
+    "urlToImage": "https://i.insider.com/63eb973d7518920018f339e6?width=1200&format=jpeg",
+    "publishedAt": "2023-02-14T14:53:43Z",
+    "content": "The Church of Jesus Christ of Latter-day Saints' sports a $100 billion investment portfolio that includes $44.4 billion invested in stocks.\r\nThe portfolio is registered with the SEC under the name En… [+2483 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "jzinkula@insider.com (Jacob Zinkula)",
+    "title": "4 tips to save money with brands like Nike and Starbucks from a TikToker who paid off $200,000 in student debt in 2 years",
+    "description": "A lawyer has gained a TikTok following by \"reading the fine print\" to help fans save money on a laptop, coffee, deliveries, and medical bills.",
+    "url": "https://www.businessinsider.com/tips-save-money-nike-starbucks-amazon-apple-medical-bills-2023-2",
+    "urlToImage": "https://i.insider.com/63ea5e2f4102a900184c8615?width=1200&format=jpeg",
+    "publishedAt": "2023-02-14T10:00:00Z",
+    "content": "Erika Kullberg graduated from law school with over $200,000 in debt but paid it off in two years. Now, she's trying to help young people get ahead financially and learn their rights as consumers.\r\n\"O… [+4160 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "tmohamed@businessinsider.com (Theron Mohamed)",
+    "title": "Jim Simons' RenTech fund supercharged its Tesla bet last quarter, boosting its value 1,000 times to over $400 million",
+    "description": "The former NSA codebreaker and MIT math professor's quantitative fund ramped up its wager on Elon Musk's electric-vehicle company.",
+    "url": "https://markets.businessinsider.com/news/stocks/renaissance-technologies-rentech-jim-simons-tesla-stock-elon-musk-portfolio-2023-2",
+    "urlToImage": "https://i.insider.com/63eb57bd64d0880018eb1c45?width=1200&format=jpeg",
+    "publishedAt": "2023-02-14T11:01:59Z",
+    "content": "Renaissance Technologies boosted the size of its Tesla bet by more than 1,000-fold last quarter, making Elon Musk's automaker one of its largest holdings.\r\nThe quantitative fund owned 1,400 Tesla sha… [+2259 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "htan@insider.com (Huileng Tan)",
+    "title": "Google didn't think its Bard AI was 'really ready' for a product yet, says Alphabet chairman, days after the chatbot's very public mistake tanked the company's stock",
+    "description": "Google showcased Bard amid intense interest in ChatGPT and just a day before Microsoft rolled out the 'new Bing.'",
+    "url": "https://www.businessinsider.com/google-bard-ai-chatbot-not-ready-alphabet-hennessy-chatgpt-competitor-2023-2",
+    "urlToImage": "https://i.insider.com/63eaf0467518920018f331b3?width=1200&format=jpeg",
+    "publishedAt": "2023-02-14T05:43:33Z",
+    "content": "Google's experimental AI chatbot, Bard, did not receive the warm response it might have been expecting a promo ad for the product carried an embarrassing factual error that battered the company's sto… [+1948 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "ztayeb@businessinsider.com (Zahra Tayeb)",
+    "title": "Stop chasing the rally in tech stocks because high interest rates and weak earnings are coming to bite, says a top BlackRock iShares strategist",
+    "description": "Investors should cash out on their profits from the rally in tech stocks because the gains are \"transitory,\" a top BlackRock iShares strategist said.",
+    "url": "https://markets.businessinsider.com/news/stocks/stock-market-rally-tech-fed-interest-rates-earnings-blackrock-2023-2",
+    "urlToImage": "https://i.insider.com/63eb88a97518920018f33860?width=1200&format=jpeg",
+    "publishedAt": "2023-02-14T15:25:03Z",
+    "content": "Investors should take their profits on tech stocks and exit the sector as earnings prospects grow dim and the Federal Reserve may dash market hopes of a softer interest-rate policy, according to a to… [+1848 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Harvard Business Review"
+    },
+    "author": "Constantinos C. Markides, Freek Vermeulen",
+    "title": "Have Companies Become Too Specialized?",
+    "description": "Starting in the late 1980s, a de-diversification wave swept through corporate America, on the premise that conglomerates and highly diversified companies would perform better by focusing on their core businesses. But capital is not the only resource that can …",
+    "url": "https://hbr.org/2023/02/have-companies-become-too-specialized",
+    "urlToImage": "https://hbr.org/resources/images/article_assets/2023/02/Feb23_14_1440076707.jpg",
+    "publishedAt": "2023-02-14T13:05:40Z",
+    "content": "It’s time for strategic diversification to make a comeback.\r\n\"&gt;\r\nStarting in the late 1980s, a de-diversification wave swept through corporate America, on the premise that conglomerates and highly… [+10269 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "VentureBeat"
+    },
+    "author": "Dean Takahashi",
+    "title": "Kochava acquires Machine Advertising to improve post-IDFA app marketing",
+    "description": "Kochava, a real-time data solutions company for omni-channel attribution and measurement, has acquired Machine Advertising.",
+    "url": "https://venturebeat.com/games/kochava-acquires-machine-advertising-to-improve-app-marketing/",
+    "urlToImage": "https://venturebeat.com/wp-content/uploads/2023/02/Kochava-Machine-Aquisition-Social-v1.jpg?w=1200&strip=all",
+    "publishedAt": "2023-02-14T13:30:00Z",
+    "content": "Connect with top gaming leaders in Los Angeles at GamesBeat Summit 2023 this May 22-23. Register here.\r\nKochava, a real-time data solutions company for omni-channel attribution and measurement, has a… [+1456 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Gabriel Erard",
+    "title": "‘Ted Lasso’: fecha de estreno de la tercera temporada confirmada",
+    "description": "Después de la espera, ya conocemos cuándo se estrenará la tercera temporada de Ted Lasso. La exitosa serie protagonizada por Jason Sudeikis ya tiene fecha de lanzamiento confirmada en Apple TV+, según acaba de confirmar la propia firma de la manzana. Específi…",
+    "url": "http://hipertextual.com/2023/02/ted-lasso-fecha-estreno-tercera-temporada-confirmada",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/07/ted_lasso_bill_lawrence_jason_sudeikis_brendan_hunt_joe_kelly-scaled.jpg",
+    "publishedAt": "2023-02-14T14:15:18Z",
+    "content": "Después de la espera, ya conocemos cuándo se estrenará la tercera temporada de Ted Lasso. La exitosa serie protagonizada por Jason Sudeikis ya tiene fecha de lanzamiento confirmada en Apple TV+, segú… [+1297 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hipertextual"
+    },
+    "author": "Tomás Rivero",
+    "title": "Un MacBook Air de 15 pulgadas podría presentarse este año, según nuevo reporte",
+    "description": "El posible MacBook Air con pantalla más grande podría ser real. Un nuevo reporte de Ross Young, famoso analista y CEO de Display Supply Chain Consultants, así parece augurarlo. Young emitió el comunicado a sus Super Followers en Twitter, asegurando que sería …",
+    "url": "http://hipertextual.com/2023/02/macbook-air-15-pulgadas-podria-presentarse-este-ano-segun-nuevo-reporte",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2022/07/DSC05233-scaled.jpg",
+    "publishedAt": "2023-02-14T15:45:12Z",
+    "content": "El posible MacBook Air con pantalla más grande podría ser real. Un nuevo reporte de Ross Young, famoso analista y CEO de Display Supply Chain Consultants, así parece augurarlo. Young emitió el comuni… [+2572 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Christian Ruiz",
+    "title": "El iPhone 14 Pro Max, el iPad Pro 2022 o el AirTag cuestan mucho menos: las mejores ofertas en Apple del momento",
+    "description": "Apple tiene esa fama ganada a pulso de tener unos precios no aptos para todos los bolsillos. Por ese motivo, conseguir un producto en rebaja es como encontrar agua en el desierto, así que este artículo te va a encantar. Una selección con las mejores ofertas d…",
+    "url": "https://www.xataka.com/seleccion/iphone-14-pro-max-ipad-pro-2022-airtag-cuestan-mucho-mejores-ofertas-apple-momento",
+    "urlToImage": "https://i.blogs.es/37f369/apertura-ofertas-apple/840_560.jpeg",
+    "publishedAt": "2023-02-14T12:41:51Z",
+    "content": "Apple tiene esa fama ganada a pulso de tener unos precios no aptos para todos los bolsillos. Por ese motivo, conseguir un producto en rebaja es como encontrar agua en el desierto, así que este artícu… [+4069 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Ricardo Aguilar",
+    "title": "Google Fotos está completamente roto en iOS 16.3.1. No es cosa de tu iPhone",
+    "description": "iOS 16 no está dando demasiados respiros de cara a la estabilidad. Anoche, Apple liberaba la versión 16.3.1, la última estable disponible para todos los dispositivos compatibles. Tras actualizar a esta versión, Google Fotos queda completamente inutilizado. Ta…",
+    "url": "https://www.xataka.com/aplicaciones/google-fotos-esta-completamente-roto-ios-16-3-1-no-cosa-tu-iphon",
+    "urlToImage": "https://i.blogs.es/d85337/1366_2000/840_560.jpeg",
+    "publishedAt": "2023-02-14T07:27:00Z",
+    "content": "iOS 16 no está dando demasiados respiros de cara a la estabilidad. Anoche, Apple liberaba la versión 16.3.1, la última estable disponible para todos los dispositivos compatibles. Tras actualizar a es… [+1183 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Yúbal Fernández",
+    "title": "8 alternativas a Netflix más baratas para ver series y películas en streaming",
+    "description": "¿Se acabó el amor con Netflix? Si después de que el servicio haya hecho más caro compartir tu cuenta con alguien que vive fuera de casa has decidido cancelar tu suscripción, hoy te traemos las mejores alternativas a Netflix para ver mejores contenidos a mucho…",
+    "url": "https://www.xataka.com/basics/8-alternativas-a-netflix-baratas-para-ver-series-peliculas-streaming",
+    "urlToImage": "https://i.blogs.es/7b340a/red-room/840_560.jpeg",
+    "publishedAt": "2023-02-14T13:41:54Z",
+    "content": "¿Se acabó el amor con Netflix? Si después de que el servicio haya hecho más caro compartir tu cuenta con alguien que vive fuera de casa has decidido cancelar tu suscripción, hoy te traemos las mejore… [+3666 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Xataka.com"
+    },
+    "author": "Alberto de la Torre",
+    "title": "El futuro de la industria del coche pasa por el software. Problema: no sabe cómo ganar dinero con él",
+    "description": "La apuesta por el software de los coches ha puesto patas arriba la industria dle automóvil. Tanto que fabricantes como Volkswagen han llegado a hablar de reconvertirse en empresas tecnológicas para no acabar siendo una commodity.\n<!-- BREAK 1 -->\nParece claro…",
+    "url": "https://www.xataka.com/movilidad/industria-coche-sabe-que-su-futuro-pasa-software-problema-no-saben-como-ganar-dinero",
+    "urlToImage": "https://i.blogs.es/5fbd2c/db2023au00003_large/840_560.jpeg",
+    "publishedAt": "2023-02-14T11:01:14Z",
+    "content": "La apuesta por el software de los coches ha puesto patas arriba la industria dle automóvil. Tanto que fabricantes como Volkswagen han llegado a hablar de reconvertirse en empresas tecnológicas para n… [+3836 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-news",
+    "name": "Fox News"
+    },
+    "author": "Kurt Knutsson, CyberGuy Report",
+    "title": "How your browser could be exposed to a security risk",
+    "description": "Hackers, program crashes and other problems may be plaguing your computer. Kurt \"CyberGuy\" Knutsson has the answers on how to fix your computer's security issues.",
+    "url": "https://www.foxnews.com/tech/browser-exposed-security-risk",
+    "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/1-CHROME-BROWSER.jpg",
+    "publishedAt": "2023-02-14T14:08:18Z",
+    "content": "One thing you shouldn't take for granted is the version of the browser you're using to surf the web. Always be sure to keep your web browser up to date. \r\nCLICK TO GET KURTS CYBERGUY NEWSLETTER WITH … [+4710 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Alex Blake",
+    "title": "Apple may launch a groundbreaking new Mac in a few weeks",
+    "description": "Apple plans to launch a brand-new 15.5-inch MacBook Air in early April, according to a display industry expert with an impressive record for Apple rumors.",
+    "url": "https://www.digitaltrends.com/computing/apple-macbook-air-15-april-launch/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/08/macbook-air-m2-1.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-02-14T11:06:15Z",
+    "content": "This spring could be a momentous one for Apple fans, with a top-secret mixed-reality headset and new Apple silicon Mac Pro lined up for release. Weve also heard whispers that Apple is planning to lau… [+2273 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Digital Trends"
+    },
+    "author": "Christine Romero-Chan",
+    "title": "The iPhone 15 may finally get reverse wireless charging — but I don’t want it",
+    "description": "Apple continues to drag its feet when it comes to reverse wireless charging, but at this point, I'm not even sure I care anymore.",
+    "url": "https://www.digitaltrends.com/mobile/apple-iphone-15-reverse-wireless-charging-rumor-i-dont-care-why/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/09/apple-airpods-pro-2-review-00016.jpeg?resize=1200%2C630&p=1",
+    "publishedAt": "2023-02-14T14:00:49Z",
+    "content": "Its been rumored that Apple has been working on implementing reverse wireless charging for a while. In fact, Apple has added some necessary components for making reverse wireless charging possible ev… [+6607 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Medium"
+    },
+    "author": "Cher Scarlett",
+    "title": "Thirty years of oppressive spiritual cultivation at Apple: Part I",
+    "description": "Part II in a series about Apple's legendary culture of secrecy, Steve Jobs brilliant marketing prowess, and how it became a cult.",
+    "url": "https://cherp.medium.com/welcome-to-apple-cher-scarlett-650410fc4b9f",
+    "urlToImage": "https://miro.medium.com/max/1200/1*kNbB_iDOKZ2f1mI6A_ZTQA.png",
+    "publishedAt": "2023-02-14T15:45:22Z",
+    "content": "Thirty years of oppressive spiritual cultivation at Apple: Part I\r\nForward: Where theres a pattern, theres a reason\r\nThe US Securities and Exchange Commission found Activision Blizzard liable for a $… [+26537 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Medium"
+    },
+    "author": "Cher Scarlett",
+    "title": "Thirty years of oppressive spiritual cultivation at Apple: Part II",
+    "description": "Part II in a series about Apple's legendary culture of secrecy, Steve Jobs brilliant marketing prowess, and how it became a cult.",
+    "url": "https://cherp.medium.com/reality-is-not-what-it-seems-at-apple-cher-scarlett-2eb3cd15d16a",
+    "urlToImage": "https://miro.medium.com/max/1200/1*XtaD5Ixxtk2y0Yh5Z-NHOw.png",
+    "publishedAt": "2023-02-14T15:45:01Z",
+    "content": "Thirty years of oppressive spiritual cultivation at Apple: Part II\r\nPart two of a five-part series. New here? Read Part I: Welcome to Apple.\r\nThe Garden of Eden With the Fall of Man, c1615 and Apples… [+30293 chars]"
+    },
+    {
+    "source": {
+    "id": "hacker-news",
+    "name": "Hacker News"
+    },
+    "author": null,
+    "title": "Tell HN: I got my first macOS app accepted to the App Store",
+    "description": "Comments",
+    "url": "https://news.ycombinator.com/item?id=34784664",
+    "urlToImage": null,
+    "publishedAt": "2023-02-14T02:58:27Z",
+    "content": "Ive been building things in JavaScript for many years front end back and command line applications and recently I had a project that I wanted to do and there wasnt really a way to do it in JavaScript… [+3829 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "Display-Experte: MacBook Air mit 15 Zoll schon im April",
+    "description": "Apple plant offenbar erneut, eine zweite MacBook-Air-Baureihe anzubieten – diesmal mit größerem Display. Sie könnte bald erscheinen, meint ein Analyst.",
+    "url": "https://www.heise.de/news/Display-Experte-MacBook-Air-mit-15-Zoll-schon-im-April-7494920.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/8/5/4/7/shutterstock_1676218105-0c3a1488b17a4092.jpg",
+    "publishedAt": "2023-02-14T09:18:00Z",
+    "content": "Apple steht offenbar kurz davor, eine zweite Variante des MacBook Air (MBA) auf den Markt zu bringen. Davon geht der Display-Experte Ross Young, der in der Vergangenheit häufiger mit seinen Prognosen… [+2081 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Malte Kirchner",
+    "title": "Viele Stolpersteine: Was Apples Indien-Pläne für das iPhone ausbremst",
+    "description": "Bislang ließ Apple seine Geräte vor allem in China fertigen. Eine Teilverlagerung nach Indien erscheint sinnvoll – doch einfach ist sie offenbar nicht.",
+    "url": "https://www.heise.de/news/Viele-Stolpersteine-Was-Apples-Indien-Plaene-fuer-das-iPhone-ausbremst-7495651.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/8/9/5/2/iphone-14-pro_overview__e2a7u9jy63ma_og-2-ea7c83550aa5f0f1.png",
+    "publishedAt": "2023-02-14T15:06:00Z",
+    "content": "Die Covid-Lockdowns in China und die politischen Spannungen zwischen den USA und dem Haupt-Produktionsland des iPhones haben Apple hellhörig werden lassen: Seit einiger Zeit schon ist Apple dabei, se… [+2179 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Andreas Knobloch",
+    "title": "Dienstag: Russland überwacht Netzinhalte, US-Behörden stoppen Binance-Stablecoin",
+    "description": "Oculus erkennt verbotene Inhalte + Binance USD gestoppt + USB-C-Anschluss angeblich vernagelt + US-Militär schießt UFOs ab + Ex-Wirecard-Chef weiß von nichts",
+    "url": "https://www.heise.de/news/Dienstag-Russland-ueberwacht-Netzinhalte-US-Behoerden-stoppen-Binance-Stablecoin-7494691.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/8/4/2/6/Wochentage-source-sans-28abfea86cb03e3c.png",
+    "publishedAt": "2023-02-14T05:30:00Z",
+    "content": "Russland geht noch schärfer gegen unliebsame Inhalte im Internet vor. Behörden des Landes betreiben jetzt ein automatisiertes System zur Erkennung von \"LGBT-Propaganda\" und anderen \"verbotenen Online… [+4165 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Johannes Schuster",
+    "title": "heise+ | Sechs smarte Wetterstationen im Test: Der eigene Wetterbericht",
+    "description": "Wir testen Wetterstationen mit Regenmesser und Windsensoren, die ihre Daten per WLAN an eine App übermitteln – und so Ist-Werte für das eigene Zuhause liefern.",
+    "url": "https://www.heise.de/tests/Sechs-smarte-Wetterstationen-im-Test-Ist-Werte-statt-grobe-Wetterberichte-7494255.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/8/1/8/9/mi_01_23_wetterstationen_aufmacher_digital-bf9883127af02f3b.jpg",
+    "publishedAt": "2023-02-14T06:30:00Z",
+    "content": "Inhaltsverzeichnis\r\nApps oder der Wetterbericht liefern bereits erstaunlich genaue Daten und das auch für einige Tage im Voraus. Doch zum einen sind die Werte immer der Durchschnitt für eine ganze Re… [+2019 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Stephan Arneth",
+    "title": "heise+ | Cloudbasierte Geräteverwaltung: iPhones auf Microsoft Intune migrieren",
+    "description": "Überschreitet die Zahl der zu administrierenden Geräte im Unternehmen die Kapazitäten der Administratoren, bietet sich Microsoft Intune zur Geräteverwaltung an.",
+    "url": "https://www.heise.de/hintergrund/Cloudbasierte-Geraeteverwaltung-iPhones-auf-Microsoft-Intune-migrieren-7477686.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/8/9/4/4/9/ms_intune-3ff88373c013fa9e.png",
+    "publishedAt": "2023-02-14T10:30:00Z",
+    "content": "Inhaltsverzeichnis\r\nMehr zu Geräteverwaltung\r\nIn einem Umfeld mit hohen Anforderungen an Sicherheit und Compliance ist es kaum mehr möglich, mobile Endgeräte individuell zu verwalten. So musste auch … [+1957 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Jobst-H. Kehrhahn",
+    "title": "heise+ | Video-Workshop RAW-Entwicklung in Affinity Photo – Teil 2",
+    "description": "Das ist der zweite Teil der Serie, Affinity Photo für Anfänger und Photoshop-Benutzer. In dieser Ausgabe gehen wir auf die grundlegende Bildbearbeitung ein.",
+    "url": "https://www.heise.de/hintergrund/Video-Workshop-RAW-Entwicklung-in-Affinity-Photo-Teil-2-7486082.html?wt_mc=rss.red.ho.ho.atom.beitrag_plus.beitrag_plus",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/3/8/3/4/Aufmacher_Affinity_Photo_Teil_II-9ad4121b1b1bf630.png",
+    "publishedAt": "2023-02-14T16:30:00Z",
+    "content": "Inhaltsverzeichnis\r\nIm ersten Teil der Serie Affinity Photo für Einsteiger und Photoshop-Anwender haben wir uns bereits mit den Grundlagen und Objektivkorrekturen beschäftigt. In diesem Teil geht es … [+2733 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "dpa",
+    "title": "Rekordwerte beim bargeldlosen Bezahlen mit der Girocard",
+    "description": "Vier von fünf Einkäufen mit der Girocard erfolgen kontaktlos. Banken und Sparkassen wollen die beliebteste Bankkarte mit weiteren Funktionen aufwerten.",
+    "url": "https://www.heise.de/news/Rekordwerte-beim-bargeldlosen-Bezahlen-mit-der-Girocard-7494719.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/9/8/4/4/0/shutterstock_1690708759-925a28794778eaca.jpg",
+    "publishedAt": "2023-02-14T05:33:00Z",
+    "content": "Verbraucherinnen und Verbraucher in Deutschland nutzen immer häufiger die Girocard zum bargeldlosen Bezahlen. Mehr als 6,7 Milliarden Bezahlvorgänge mit der Plastikkarte zählte die Frankfurter Einric… [+2389 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "Apple shares 5 security steps you should take ‘right away’ to protect Apple Card",
+    "description": "Apple Card has a number of security improvements compared to many credit cards with features like the number/expiration date not being printed on the card, control in the Wallet app on iPhone, and a focus on Apple Pay. Today Apple has shared 5 steps to take “…",
+    "url": "https://9to5mac.com/2023/02/14/apple-card-security-steps/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-card-security-steps.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T15:27:20Z",
+    "content": "Apple Card has a number of security improvements compared to many credit cards with features like the number/expiration date not being printed on the card, control in the Wallet app on iPhone, and a … [+2949 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "There’s finally a way to find out when your Apple Music library goes Spatial Audio",
+    "description": "Apple Music launched support for Spatial Audio with Dolby Atmos back in June 2021. Since then, the catalog of songs available in these new formats has dramatically expanded. If you’ve struggled to keep up with the ever-expanding Apple Music catalog of Spatial…",
+    "url": "https://9to5mac.com/2023/02/14/apple-music-spatial-audio-songs/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-music-spatial-audio-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T15:52:40Z",
+    "content": "Apple Music launched support for Spatial Audio with Dolby Atmos back in June 2021. Since then, the catalog of songs available in these new formats has dramatically expanded. If youve struggled to kee… [+2651 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Benjamin Mayo",
+    "title": "Apple announces release date for Ted Lasso season three",
+    "description": "The Apple TV+ hit comedy series Ted Lasso will return for season three on March 15. Season three will see AFC Richmond take on West Ham United in the league, in a coach face-off of Ted and Nate.\nAlthough star Jason Sudeikis has previously said Ted Lasso will …",
+    "url": "https://9to5mac.com/2023/02/14/apple-announces-release-date-for-ted-lasso-season-three/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/ted-lasso-season-three-first-look.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T14:05:39Z",
+    "content": "The Apple TV+ hit comedy series Ted Lasso will return for season three on March 15. Season three will see AFC Richmond take on West Ham United in the league, in a coach face-off of Ted and Nate.\r\nAlt… [+972 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Michael Potuck",
+    "title": "Celebrate HomePod’s return with this iPhone wallpaper from Basic Apple Guy",
+    "description": "The always creative Basic Apple Guy is out with his latest wallpaper for iPhone today. The new design celebrates the return of the full-size HomePod by bringing the revived smart speaker to your iPhone display with a beautiful gradient.\n more…\nThe post Celebr…",
+    "url": "https://9to5mac.com/2023/02/14/download-homepod-iphone-wallpaper/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/homepod-iphone-wallpaper.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T15:57:55Z",
+    "content": "The always creative Basic Apple Guy is out with his latest wallpaper for iPhone today. The new design celebrates the return of the full-size HomePod by bringing the revived smart speaker to your iPho… [+940 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Apple expressed interest in NBA streaming rights, but can’t make formal bid",
+    "description": "A report says that Apple has expressed interest in acquiring NBA streaming rights for Apple TV+, but existing agreements mean that it cannot make a formal bid.\nDisney’s ESPN currently holds exclusive TV rights to National Basketball Association games, and has…",
+    "url": "https://9to5mac.com/2023/02/14/nba-streaming-rights/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/NBA-streaming-rights.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T12:01:03Z",
+    "content": "A report says that Apple has expressed interest in acquiring NBA streaming rights for Apple TV+, but existing agreements mean that it cannot make a formal bid.\r\nDisney’s ESPN currently holds exclusiv… [+3230 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Apple Watch Crash Detection leads rescuers to the scene of severe car crash in Germany",
+    "description": "Like the iPhone 14, the Apple Watch Series 8 also includes Apple’s Crash Detection feature. A new report out of Germany today highlights a story where this feature kicked in to help save the lives of three people who were in car crash where their car fell dow…",
+    "url": "https://9to5mac.com/2023/02/14/apple-watch-crash-detection-german-wreck/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/apple-watch-crash-detection.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T14:21:19Z",
+    "content": "Like the iPhone 14, the Apple Watch Series 8 also includes Apples Crash Detection feature. A new report out of Germany today highlights a story where this feature kicked in to help save the lives of … [+2568 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "50% rejection rate for iPhone casings produced in India shows scale of Apple’s challenge",
+    "description": "A 50% rejection rate for iPhone casings produced by an Indian company is a stark illustration of the difficulties Apple faces in reducing its dependence on China. Apple’s target for casings that fail to pass quality control is 0%, with Chinese suppliers repor…",
+    "url": "https://9to5mac.com/2023/02/14/iphone-casings-produced-in-india/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/iPhone-casings-produced-in-India.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T12:45:43Z",
+    "content": "A 50% rejection rate for iPhone casings produced by an Indian company is a stark illustration of the difficulties Apple faces in reducing its dependence on China. Apple’s target for casings that fail… [+3000 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "15-inch MacBook Air will be a big win for Apple, as well as for customers",
+    "description": "We first heard reports about a 15-inch MacBook Air almost a year ago now, and I noted at the time that it could be the perfect machine for many users.\nA report yesterday indicated that the machine may be arriving early in April, and while customers have had a…",
+    "url": "https://9to5mac.com/2023/02/14/15-inch-macbook/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/15-inch-MacBook-Air.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T14:27:57Z",
+    "content": "We first heard reports about a 15-inch MacBook Air almost a year ago now, and I noted at the time that it could be the perfect machine for many users.\r\nA report yesterday indicated that the machine m… [+3856 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Social app BeReal working on Spotify integration to let users share songs they’re listening to",
+    "description": "BeReal quickly became one of the most popular apps of 2022, and it was even named iPhone App of the Year by Apple. Now BeReal wants to make its platform even more attractive to users, as the app is about to get official integration with Spotify to let users s…",
+    "url": "https://9to5mac.com/2023/02/13/bereal-working-on-integration-spotify/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/BeReal.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T00:54:18Z",
+    "content": "BeReal quickly became one of the most popular apps of 2022, and it was even named iPhone App of the Year by Apple. Now BeReal wants to make its platform even more attractive to users, as the app is a… [+1793 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Tested: Zens 4-in-1 iPad + MagSafe wireless charger",
+    "description": "The Zens 4-in-1 iPad + MagSafe wireless charger is the latest in a line of combo chargers, and while there are many that charge an iPhone, Apple Watch, and AirPods case, this one throws in iPad charging too.\nFor bedside use, I’m a big fan of all-in-one wirele…",
+    "url": "https://9to5mac.com/2023/02/14/zens-4-in-1/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/Zens-4-in-1.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T15:43:16Z",
+    "content": "The Zens 4-in-1 iPad + MagSafe wireless charger is the latest in a line of combo chargers, and while there are many that charge an iPhone, Apple Watch, and AirPods case, this one throws in iPad charg… [+3679 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "T-Mobile outage impacting many customers, forcing iPhones into ‘SOS’ mode",
+    "description": "T-Mobile is suffering what appears to be an increasingly widespread outage in the United States. The carrier has (vaguely) acknowledged the issues via its support account on Twitter, but there’s no timetable on when services will be restored for users. \n more…",
+    "url": "https://9to5mac.com/2023/02/13/t-mobile-outage-iphone-sos/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/CleanShot-2023-02-13-at-22.48.35@2x.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T04:53:10Z",
+    "content": "T-Mobile is suffering what appears to be an increasingly widespread outage in the United States. The carrier has (vaguely) acknowledged the issues via its support account on Twitter, but there’s no t… [+2150 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Schoon",
+    "title": "Geekbench 6 debuts on macOS and iOS with updated ‘true-to-life’ tests",
+    "description": "Geekbench is getting its latest major revision, with Geekbench 6 available today for iOS, macOS, and other platforms.\n more…\nThe post Geekbench 6 debuts on macOS and iOS with updated ‘true-to-life’ tests appeared first on 9to5Mac.",
+    "url": "https://9to5mac.com/2023/02/14/geekbench-6/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/02/geekbench-6.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T15:21:43Z",
+    "content": "Geekbench is getting its latest major revision, with Geekbench 6 available today for iOS, macOS, and other platforms.\r\nGeekbench 6 is the latest major update to the benchmarking app, and the first bi… [+2423 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Twitter timelines filled with Musk tweets; API change delayed; Chinese dissidents invisible",
+    "description": "A significant number of users are finding that their Twitter timelines are dominated by tweets from Elon Musk.\nIt follows the company’s owner complaining to engineers that his tweets weren’t getting as much attention – firing a senior one who told him it wasn…",
+    "url": "https://9to5mac.com/2023/02/14/twitter-timelines/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/01/elon-twitter-money.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2023-02-14T13:24:46Z",
+    "content": "A significant number of users are finding that their Twitter timelines are dominated by tweets from Elon Musk.\r\nIt follows the company’s owner complaining to engineers that his tweets weren’t getting… [+3552 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Genbeta.com"
+    },
+    "author": "José Alberto Lizana",
+    "title": "Si Netflix ya no está hecho para ti y quieres abandonarlo, estas alternativas con más baratas y con pruebas gratuitas",
+    "description": "Sin duda una de las noticias del mes ha sido la decisión de Netflix de prohibir las cuentas compartidas con una excepción: que pagues por ello un extra de 6 euros más al mes. Toda esta estrategia se centra precisamente en sacar un mayor rendimiento económico …",
+    "url": "https://www.genbeta.com/multimedia/netflix-no-esta-hecho-para-ti-quieres-abandonarlo-estas-alternativas-baratas-pruebas-gratuitas",
+    "urlToImage": "https://i.blogs.es/3b21c4/godot-performundo-05/840_560.jpeg",
+    "publishedAt": "2023-02-14T10:45:14Z",
+    "content": "Sin duda una de las noticias del mes ha sido la decisión de Netflix de prohibir las cuentas compartidas con una excepción: que pagues por ello un extra de 6 euros más al mes. Toda esta estrategia se … [+3027 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "Apple wants to expand its sports streaming with NBA games",
+    "description": "A portion of NBA games could make their way to Apple TV+, but a lot of obstacles lie between today and a potential Apple bid.NBA games could come to Apple TV+Apple has already entered the sports scene with MLB Friday Night Baseball and MLS Season Pass, but it…",
+    "url": "https://appleinsider.com/articles/23/02/14/apple-wants-to-expand-its-sports-streaming-with-nba-games",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52992-106047-NBA-xl.jpg",
+    "publishedAt": "2023-02-14T00:45:39Z",
+    "content": "NBA games could come to Apple TV+\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nA portion of NBA games could make their way to Apple TV+, but a lot of o… [+1649 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Amber Neely)",
+    "title": "'Ted Lasso' returns to Apple TV+ on March 15",
+    "description": "Apple has shared its season 3 teaser for its wildly popular sports comedy series \"Ted Lasso\" ahead of the season premiere in March.Image Credit: AppleThe 12-episode third season follows the newly-promoted AFC Richmond, facing ridicule as media predictions peg…",
+    "url": "https://appleinsider.com/articles/23/02/14/ted-lasso-returns-to-apple-tv-on-march-15",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/53000-106088-021423_Season_Three_Premiere_Ted_Lasso_Big_Image_01_big_image_postjpglarge_2x-xl.jpg",
+    "publishedAt": "2023-02-14T14:21:05Z",
+    "content": "Image Credit: Apple\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple has shared its season 3 teaser for its wildly popular sports comedy series \"Ted … [+776 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple TV+ launches 'Liaison' with first Paris premiere",
+    "description": "Ahead of its February 24, 2023 streaming on Apple TV+, bilingual thriller \"Liaison\" was unveiled at a red-carpet event at the Publicis Cinemas in Paris.\"Liaison\" stars Vincent Cassel and Eva Green at the world premiere in ParisThe six-part thriller is Apple's…",
+    "url": "https://appleinsider.com/articles/23/02/14/apple-tv-launches-liaison-with-first-paris-premiere",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52995-106058-000-lead-Liaison-xl.jpg",
+    "publishedAt": "2023-02-14T11:25:54Z",
+    "content": "\"Liaison\" stars Vincent Cassel and Eva Green at the world premiere in Paris\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nAhead of its February 24, 2023… [+828 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Amber Neely)",
+    "title": "How to add unsupported cards to Apple Wallet",
+    "description": "While you probably already know that you can use the iPhone Wallet app to store credit and debit cards, you can also use it to store reward cards and membership cards. Here's how to do it.Like most of us, you've probably amassed dozens of membership and rewar…",
+    "url": "https://appleinsider.com/inside/iphone/tips/how-to-add-unsupported-cards-to-apple-wallet",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52977-106032-header-cards-xl.jpg",
+    "publishedAt": "2023-02-14T15:42:14Z",
+    "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nWhile you probably already know that you can use the iPhone Wallet app to store credit and debit cards, you… [+1289 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Malcolm Owen)",
+    "title": "Apple's India production dream hindered by low yields and a lack of urgency",
+    "description": "Apple's push to shift production away from China and into India is a tougher challenge than first thought, with yield issues and a lower sense of urgency reportedly holding back the project.Mumbai, IndiaApple is in the progress of diversifying its supply chai…",
+    "url": "https://appleinsider.com/articles/23/02/14/apples-india-production-dream-hindered-by-low-yields-and-a-lack-of-urgency",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52996-106060-50489-99331-18914-18533-india-mumbai-xl-xl-xl.jpg",
+    "publishedAt": "2023-02-14T12:09:54Z",
+    "content": "Mumbai, India\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple's push to shift production away from China and into India is a tougher challenge than … [+3334 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Jess Pingrey)",
+    "title": "Valentine's Day deals: $70 off Apple Watch Ultra, $100 off iPad mini, 29% off Beats earbuds & more",
+    "description": "Some of today's hottest deals include 27% off an iPhone 14 Plus leather case with MagSafe, 75% off a Mophie dual wireless charging pad, 15% off Bose headphones, 72% off Norton 360 Deluxe, and $70 off an Apple Watch Series 8.Save $100 on an iPad miniThe AppleI…",
+    "url": "https://appleinsider.com/articles/23/02/14/valentines-day-deals-70-off-apple-watch-ultra-100-off-ipad-mini-29-off-beats-earbuds-more",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52987-106043-daily-deals-Feb-14-xl.jpg",
+    "publishedAt": "2023-02-14T14:53:01Z",
+    "content": "Save $100 on an iPad mini\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nSome of today's hottest deals include 27% off an iPhone 14 Plus leather case wit… [+3016 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Apple Watch Crash Detection leads medics to car thrown 60 feet below road",
+    "description": "A car crash in Germany saw one vehicle thrown so far off the road and into bushes that emergency services only found it because of a passenger's Apple Watch.Apple Watch has previously helped detect heart conditions in people in Germany, but now one has been k…",
+    "url": "https://appleinsider.com/articles/23/02/14/apple-watch-crash-detection-leads-medics-to-car-thrown-60-feet-below-road",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52997-106059-000-lead-Crash-Detection-xl.jpg",
+    "publishedAt": "2023-02-14T12:08:08Z",
+    "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nA car crash in Germany saw one vehicle thrown so far off the road and into bushes that emergency services o… [+1453 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (William Gallagher)",
+    "title": "Folding iPhone may be touch sensitive all over",
+    "description": "Apple has been granted a patent for touch sensitive control areas including solid-state buttons on any surface of the current iPhone design, and a folding one.The touch screen wasn't invented with the iPhone, but Apple did make it ubiquitous. Potentially as s…",
+    "url": "https://appleinsider.com/articles/23/02/14/folding-iphone-may-be-touch-sensitive-all-over",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/53001-106089-000-lead-Touch-Sensitiive-xl.jpg",
+    "publishedAt": "2023-02-14T15:22:14Z",
+    "content": "AppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nApple has been granted a patent for touch sensitive control areas including solid-state buttons on any surf… [+3985 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Wesley Hilliard)",
+    "title": "Cisco brings 0% financing for iPad bundles to enterprise partners",
+    "description": "Cisco is working with seven partners to make it easier for enterprise customers to lease iPads with 0% financing.Cisco partnership makes iPad deployment easierEnterprise customers that work with Cisco are getting a new option for deploying iPads to employees.…",
+    "url": "https://appleinsider.com/articles/23/02/14/cisco-brings-0-financing-for-ipad-bundles-to-enterprise-partners",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52993-106048-Cisco-xl.jpg",
+    "publishedAt": "2023-02-14T16:00:03Z",
+    "content": "Cisco partnership makes iPad deployment easier\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nCisco is working with seven partners to make it easier for … [+1296 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "news@appleinsider.com (Mike Wuerthele)",
+    "title": "SiriusXM review: Great, except for a terrible CarPlay execution",
+    "description": "SiriusXM has been around for ages, and while the iPhone app streaming version is good, its CarPlay version needs to be a whole lot better.SiriusXM on CarPlayRadio will be around forever. It's ubiquitous, cheap, and not technically complicated to receive signa…",
+    "url": "https://appleinsider.com/articles/23/02/14/siriusxm-review-great-except-for-a-terrible-carplay-execution",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/52022-103404-SiriusXM-on-carplay-xl.jpg",
+    "publishedAt": "2023-02-14T14:45:24Z",
+    "content": "SiriusXM on CarPlay\r\nAppleInsider may earn an affiliate commission on purchases made through links on our site.\r\nSiriusXM has been around for ages, and while the iPhone app streaming version is good,… [+9514 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Elespanol.com"
+    },
+    "author": "Adrián Raya",
+    "title": "El Gobierno subirá el precio de los móviles con un ‘decretazo’ que triplicará el canon digital",
+    "description": "El Ministerio de Cultura está detrás de un decreto que subirá el llamado “canon digital”, una compensación para las entidades de gestión de derechos de autor por la piratería.",
+    "url": "https://www.elespanol.com/elandroidelibre/noticias-y-novedades/20230214/gobierno-subira-precio-moviles-decretazo-triplicara-digital/741425865_0.html",
+    "urlToImage": "https://s1.eestatic.com/2022/07/11/el-cultural/letras/686941695_230890233_600x315.jpg",
+    "publishedAt": "2023-02-14T08:59:03Z",
+    "content": "Ahora que las ventas de móviles y otros dispositivos electrónicos han caído en picado, podríamos esperar bajadas de precios a lo largo de todo el sector; unas bajadas que no se notarán tanto si final… [+3090 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gizmodo.jp"
+    },
+    "author": "宮城圭介",
+    "title": "公取委、アップルとグーグルの独占禁止法問題の報告書を提出",
+    "description": "公正取引委員会はApple（アップル）とGoogle（グーグル）がアプリ提供者に対して高額な手数料や自社アプリを優遇している行為は独占禁止法上問題になる恐れがあると指摘する報告書をまとめた。",
+    "url": "https://www.gizmodo.jp/2023/02/apple-google.html",
+    "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2023/02/14/0004.jpg?w=1280&h=630&f=jpg",
+    "publishedAt": "2023-02-14T11:00:00Z",
+    "content": "OSAppleiOS46.6%GoogleAndroid53.4%"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Max McHone",
+    "title": "1-Day Best Buy Deal Knocks $99 Off Apple's Premium AirPods Max Headphones - CNET",
+    "description": "Today only, you can snag a pair of these top-of-the-line over-ear headphones for $450.",
+    "url": "https://www.cnet.com/deals/1-day-best-buy-deal-knocks-99-off-apples-premium-airpods-max-headphones/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/b194baaffdbb1bc8a5bc40e5a995327e7ec0c02f/hub/2023/02/14/d567a8c0-f0fe-4c80-aaea-bcc3b7cbbe74/airpods-max.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2023-02-14T13:50:00Z",
+    "content": "Apple consistently makes some of our favorite wireless earbuds on the market, so it's no surprise that its premium over-ear headphones, the AirPods Max, were named our favorite high-end pair for 2023… [+1165 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Nina Raemont",
+    "title": "'Ted Lasso' Season 3 Trailer Reveals March Release Date on Apple TV Plus - CNET",
+    "description": "The third season of Ted Lasso will return this spring, according to a new trailer released on Tuesday.",
+    "url": "https://www.cnet.com/culture/entertainment/ted-lasso-season-3-trailer-reveals-march-release-date-on-apple-tv-plus/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/90aa12b88abfc0e960d29a688a34cc95c8ac3131/hub/2023/02/14/cab34e99-89c1-4e3d-be19-7ba607fd374e/apple-tv-ted-lasso-key-art-16-9.png?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2023-02-14T14:20:52Z",
+    "content": "Hold onto your soccer balls (or footballs). If you've been waiting for the third season of Ted Lasso to premiere, we have a release date to look forward to. Season 3 of Ted Lasso will return to Apple… [+64 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Zachary McAuliffe",
+    "title": "iOS 16.3.1: What's Included in the Latest iPhone Update - CNET",
+    "description": "The update fixes some features and patches a bug that might be actively exploited.",
+    "url": "https://www.cnet.com/tech/services-and-software/ios-16-3-1-whats-included-in-the-latest-iphone-update/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/3acc67bd2152abb6062cdb61e1c0d6101d711580/hub/2022/09/14/2106e5cd-954d-47ea-ab70-e0929879db71/apple-iphone-14-8200.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2023-02-14T14:46:40Z",
+    "content": "Apple released iOS 16.3.1 on Monday, a few weeks after the release of iOS 16.3. While the previous release included new features like security keys for Apple ID and support for the second-generation … [+1395 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Michelle Honeyager",
+    "title": "12 Probiotic Foods That Can Improve Gut Health - CNET",
+    "description": "Add probiotics to your diet, naturally, with these foods.",
+    "url": "https://www.cnet.com/health/nutrition/12-probiotic-foods-that-can-improve-gut-health/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/bb05660a3aa90a2345d88b84107023b5db3f02ce/hub/2023/02/03/c944d9d7-f0dd-438a-9f91-fd1a154567e4/gettyimages-1279140719.jpg?auto=webp&fit=crop&height=630&width=1200",
+    "publishedAt": "2023-02-14T14:00:10Z",
+    "content": "Odds are, you've heard of how healthy probiotics are for you. But what are they, and are they worth the hype? Probiotics are living microorganisms that can help promote the growth of good bacteria in… [+6923 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Science Daily"
+    },
+    "author": null,
+    "title": "Can hearing loss be reversed? Research reveals clues that could regrow the cells that help us hear",
+    "description": "The most common cause of hearing loss is progressive because hair cells -- the primary cells to detect sound waves -- cannot regenerate if damaged or lost. Researchers are now getting closer to identifying the mechanisms that may promote this type of regenera…",
+    "url": "https://www.sciencedaily.com/releases/2023/02/230213201054.htm",
+    "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+    "publishedAt": "2023-02-14T01:10:54Z",
+    "content": "Taking a bite of an apple is considered a healthy choice. But have you ever thought about putting in earplugs before your favorite band takes the stage?Just like your future body will thank you for t… [+3153 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Manon Carpentier",
+    "title": "Combien coûte la production d’un iPhone 14 Pro Max à Apple ?",
+    "description": "Affiché à 1479 euros en France, l’iPhone 14 Pro Max est la crème de la crème. Face à son coût de production, Apple réalise une marge impressionnante.\nCombien coûte la production d’un iPhone 14 Pro Max à Apple ?",
+    "url": "https://www.journaldugeek.com/2023/02/14/combien-coute-la-production-dun-iphone-14-pro-max-a-apple/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2022/09/iphone-14-pro-iphone-14-pro-max-apple-bloc-photo.jpg",
+    "publishedAt": "2023-02-14T12:00:36Z",
+    "content": "Affiché à 1479 euros en France, liPhone 14 Pro Max est la crème de la crème. Face à son coût de production, Apple réalise une marge impressionnante.En septembre dernier, Apple présentait ses quatre n… [+2649 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Benjamin Destrebecq",
+    "title": "Quels sont les meilleurs thermostats connectés pour faire des économies d’énergie en 2023 ?",
+    "description": "Si vous recherchez une façon d'économiser de l'électricité ou plus simplement d'éviter de chauffer inutilement votre logement, les thermostats connectés sont une solution qui n'a plus à faire ses preuves.\nQuels sont les meilleurs thermostats connectés pour fa…",
+    "url": "https://www.journaldugeek.com/dossier/quels-sont-les-meilleurs-thermostats-connectes-pour-faire-des-economies-denergie-en-2023/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/02/thermostats-2023.jpg",
+    "publishedAt": "2023-02-14T15:30:27Z",
+    "content": "Si vous recherchez une façon d'économiser de l'électricité ou plus simplement d'éviter de chauffer inutilement votre logement, les thermostats connectés sont une solution qui n'a plus à faire ses pre… [+16049 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Gregori Pujol",
+    "title": "À court d’idées pour la Saint Valentin ? Voici une sélection qui pourrait vous sauver ",
+    "description": "La fête des amoureux c'est dans quelques jours ! Afin de trouver le cadeau idéal pour votre moitié, voici une sélection quelques idées originales pour homme ou femme à des prix variés...\nÀ court d’idées pour la Saint Valentin ? Voici une sélection qui pourrai…",
+    "url": "https://www.journaldugeek.com/dossier/nos-idees-cadeaux-a-offrir-pour-la-saint-valentin/",
+    "urlToImage": "https://www.journaldugeek.com/content/uploads/2023/02/neonvalentin.jpg",
+    "publishedAt": "2023-02-14T09:15:01Z",
+    "content": "La fête des amoureux c'est dans quelques jours ! Afin de trouver le cadeau idéal pour votre moitié, voici une sélection quelques idées originales pour homme ou femme à des prix variés...Un bouquet de… [+7335 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "Vuelve la mejor serie de Apple TV+: ya hay fecha definitiva para la tercera y última temporada de ‘Ted Lasso’",
+    "description": "Por fin, ya sabemos cuánta espera nos queda para el regreso de una de las mejores series (si no es la mejor) de Apple TV+. Apple ha lanzado una nota de prensa a los medios con la que confirma que tendremos la tercera temporada de 'Ted Lasso' el 15 de marzo.\n<…",
+    "url": "https://www.applesfera.com/servicios-apple/vuelve-mejor-serie-apple-tv-hay-fecha-definitiva-para-tercera-ultima-temporada-ted-lasso",
+    "urlToImage": "https://i.blogs.es/103891/021423_season_three_premiere_ted_lasso_big_image_01_big_image_post.jpg.large_2x/840_560.jpeg",
+    "publishedAt": "2023-02-14T16:01:12Z",
+    "content": "Por fin, ya sabemos cuánta espera nos queda para el regreso de una de las mejores series (si no es la mejor) de Apple TV+. Apple ha lanzado una nota de prensa a los medios con la que confirma que ten… [+1150 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "David Bernal Raspall",
+    "title": "Si la usas “no sabes de lo que hablas”: por qué Steve Jobs odiaba una de las apps más exitosas de Microsoft que todavía usamos",
+    "description": "Cuando Steve Jobs estaba a cargo de Apple, pasaba la mayor parte de su tiempo en reuniones con diferentes equipos. Reuniones fundamentales para intercambiar ideas, tomar decisiones y explorar situaciones que potencialmente se tendrían que resolver. Y con el t…",
+    "url": "https://www.applesfera.com/curiosidades/usas-no-sabes-que-hablas-que-steve-jobs-odiaba-apps-exitosas-microsoft-que-todavia-usamos",
+    "urlToImage": "https://i.blogs.es/3f930d/hero/840_560.jpeg",
+    "publishedAt": "2023-02-14T11:04:05Z",
+    "content": "Cuando Steve Jobs estaba a cargo de Apple, pasaba la mayor parte de su tiempo en reuniones con diferentes equipos. Reuniones fundamentales para intercambiar ideas, tomar decisiones y explorar situaci… [+2199 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "David Bernal Raspall",
+    "title": "Todas las novedades iOS 16.3.1 y el resto de sistemas: muchas razones para actualizar",
+    "description": "Apple ha lanzado actualizaciones para todos sus sistemas operativos. Ha llegado iOS 16.3.1, iPadOS 16.3.1, tvOS 16.3.2, watchOS 9.3.1, macOS 13.2.1 y también una actualización de software para el HomePod que ya ejecuta la versión 16.3.2. Todas ellas, actualiz…",
+    "url": "https://www.applesfera.com/seguridad/todas-novedades-ios-16-3-1-resto-sistemas-muchas-razones-para-actualizar",
+    "urlToImage": "https://i.blogs.es/552b90/hero/840_560.jpeg",
+    "publishedAt": "2023-02-14T07:32:06Z",
+    "content": "Apple ha lanzado actualizaciones para todos sus sistemas operativos. Ha llegado iOS 16.3.1, iPadOS 16.3.1, tvOS 16.3.2, watchOS 9.3.1, macOS 13.2.1 y también una actualización de software para el Hom… [+2632 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "Los iPhone serán (aún) más caros: el Gobierno plantea triplicar el Canon Digital",
+    "description": "La próxima subida de precios de los iPhone puede no venir de Apple, si no del Gobierno de España. En nuestro país, desde hace casi seis años, pagamos un polémico impuesto bautizado como Canon Digital mediante el que la administración quiere compensar las desc…",
+    "url": "https://www.applesfera.com/iphone/iphone-seran-caros-gobierno-plantea-triplicar-canon-digital",
+    "urlToImage": "https://i.blogs.es/412d63/iphone-14-pro-apple/840_560.jpeg",
+    "publishedAt": "2023-02-14T09:34:28Z",
+    "content": "La próxima subida de precios de los iPhone puede no venir de Apple, si no del Gobierno de España. En nuestro país, desde hace casi seis años, pagamos un polémico impuesto bautizado como Canon Digital… [+1740 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "Si estás pensando darte de baja en Netflix, aquí tienes las mejores alternativas con pruebas gratuitas para sustituirlo",
+    "description": "Si tengo que fiarme de lo que se ha ido diciendo por las redes sociales últimamente, es posible que hayas ponderado darte de baja de Netflix debido a su nueva política bloqueando cuentas compartidas. Y no me extraña: las nuevas condiciones hacen que compartir…",
+    "url": "https://www.applesfera.com/general/estas-pensando-darte-baja-netflix-aqui-tienes-mejores-alternativas-pruebas-gratuitas-para-sustituirlo",
+    "urlToImage": "https://i.blogs.es/db7e52/apple-tv-streaming-servicios/840_560.jpeg",
+    "publishedAt": "2023-02-14T12:01:12Z",
+    "content": "Si tengo que fiarme de lo que se ha ido diciendo por las redes sociales últimamente, es posible que hayas ponderado darte de baja de Netflix debido a su nueva política bloqueando cuentas compartidas.… [+2487 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "La cuenta atrás del MacBook Air de 15 pulgadas ya se cuenta por semanas, y encaja con una posible keynote primaveral",
+    "description": "Ross Young nos da una de cal y otra de arena. Mientras con una mano nos dice que no vamos a ver ni los nuevos iMac ni nuevas pantallas profesionales pronto, con la otra nos da esperanzas sobre la próxima llegada de un MacBook Air de 15,5 pulgadas. Parece que …",
+    "url": "https://www.applesfera.com/portatil/cuenta-atras-macbook-air-15-pulgadas-se-cuenta-semanas-encaja-posible-keynote-primaveral",
+    "urlToImage": "https://i.blogs.es/01e055/macbook-air-15-pulgadas-apple/840_560.jpeg",
+    "publishedAt": "2023-02-14T07:01:11Z",
+    "content": "Ross Young nos da una de cal y otra de arena. Mientras con una mano nos dice que no vamos a ver ni los nuevos iMac ni nuevas pantallas profesionales pronto, con la otra nos da esperanzas sobre la pró… [+1229 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Bobby Jack",
+    "title": "How to Transfer Screenshots From a Nintendo Switch to a Mac",
+    "description": "Nintendo gives you more than one way to get your pictures onto an Apple Mac.",
+    "url": "https://www.makeuseof.com/nintendo-switch-screenshots-how-transfer-mac/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/switch-docked.jpg",
+    "publishedAt": "2023-02-14T13:30:16Z",
+    "content": "Maybe you’re keeping a record of your gameplay for posterity or boasting about your gamer skills on social media. You might even be sourcing images for review work or writing. Whatever your reason, t… [+5974 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Will Graf",
+    "title": "What Is a Liquid Retina XDR Display? Everything You Need to Know",
+    "description": "Here, we'll dive into Apple's fancy term for its displays in the 12.9-inch iPad Pro and the high-end MacBook Pro models.",
+    "url": "https://www.makeuseof.com/liquid-retina-xdr-display-explained/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2022/09/iPad-Pro-with-Folio.jpg",
+    "publishedAt": "2023-02-14T13:15:16Z",
+    "content": "Apple's displays have changed drastically over the years, especially since 2017 with the introduction of the iPhone X. And with the release of the 12.9-inch iPad Pro in 2021, Apple introduced the fir… [+4799 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MakeUseOf"
+    },
+    "author": "Yash Wate",
+    "title": "4 Ways to Combine Multiple Images Into a PDF on iPhone",
+    "description": "Minimize the number of files you send while sharing photos by combining them into a single PDF file using these unique methods.",
+    "url": "https://www.makeuseof.com/combine-multiple-images-into-pdf-iphone/",
+    "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/combine-multiple-images-into-pdf-on-iphone.jpg",
+    "publishedAt": "2023-02-14T16:31:16Z",
+    "content": "PDF is a universal document format. It requires less storage space and is easy to share. So, if you've got a bunch of images you want to share with someone, it's best to convert them into a PDF docum… [+5996 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Theregister.com"
+    },
+    "author": "Jessica Lyons Hardcastle",
+    "title": "Romance scam targets security researcher, hilarity ensues",
+    "description": "Happy Valentine's Day! Now don't get fooled\nIt sounds like the plot of a somewhat far-fetched romcom-slash-thriller Netflix series, maybe billed as You meets Your Place or Mine, dropping just in time for Valentine's Day.…",
+    "url": "https://www.theregister.com/2023/02/14/romance_scam_sophos/",
+    "urlToImage": "https://regmedia.co.uk/2017/04/20/jack_russell_in_love_photo_via_shutterstock.jpg",
+    "publishedAt": "2023-02-14T02:30:08Z",
+    "content": "It sounds like the plot of a somewhat far-fetched romcom-slash-thriller Netflix series, maybe billed as You meets Your Place or Mine, dropping just in time for Valentine's Day.\r\nIn it, a pig butcheri… [+4695 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Theregister.com"
+    },
+    "author": "Simon Sharwood",
+    "title": "Thunderbird email client is Go for new plumage in July",
+    "description": "Supernova will prove open source project is not dead – just pining for a complete overhaul\nThe Thunderbird email client – once Mozilla's most prominent project other than the Firefox browser – is being completely overhauled ahead of a major July release 115, …",
+    "url": "https://www.theregister.com/2023/02/14/thunderbird_115_supernova_complete_overhaul/",
+    "urlToImage": "https://regmedia.co.uk/2021/05/24/shutterstock_moilla_thunderbird.jpg",
+    "publishedAt": "2023-02-14T04:45:11Z",
+    "content": "The Thunderbird email client once Mozilla's most prominent project other than the Firefox browser is being completely overhauled ahead of a major July release 115, dubbed \"Supernova\".\r\nProduct design… [+4601 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Romain Vitt",
+    "title": "Vendu 1 500 euros, combien coûte l’iPhone 14 Pro Max à fabriquer ?",
+    "description": "En France, Apple propose son iPhone 14 Pro Max à un prix avoisinant les 1 500 euros. Mais combien lui coûte sa fabrication ?",
+    "url": "https://www.presse-citron.net/vendu-1-500-euros-combien-coute-liphone-14-pro-max-a-fabriquer/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2022/09/test-iphone-14-pro-max-autonomie.jpg",
+    "publishedAt": "2023-02-14T09:30:52Z",
+    "content": "<ul><li><ul><li>Counterpoint Research a calculé le coût des composants intégrés à l’iPhone 14 Pro Max</li><li>L’iPhone 14 Pro Max coûte moins de 500 dollars en composants</li><li>Ces coûts n’incluent… [+2934 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Setra",
+    "title": "Cet iPhone spécial a deux ports, dont un USB-C (vidéo)",
+    "description": "En attendant l’iPhone USB-C (à la place du Lightning), voici l’iPhone avec les deux ports en même temps.",
+    "url": "https://www.presse-citron.net/?p=539268",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2023/02/iphone-USB-C-Lightning-min.jpg",
+    "publishedAt": "2023-02-14T15:00:07Z",
+    "content": "<ul><li>Une chaîne YouTube a modifié un iPhone afin dy ajouter un second port, pour les câbles USB-C</li><li>Une solution radicale aux problèmes de câbles, dautant plus que ça fonctionne aussi bien p… [+2304 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Openculture.com"
+    },
+    "author": "Mark Linsenmayer",
+    "title": "Do Movie Androids Want to Love Us or Kill Us? Pretty Much Pop: A Culture Podcast #144",
+    "description": "Your Pretty Much Pop hosts Mark Linsenmayer, Lawrence Ware, Sarahlyn Bruck, and Al Baker talk through various ethical and narrative problems having to do with the creation of artificial life. We all watched M3GAN and Steve Spielberg’s A.I., and also touch on …",
+    "url": "https://www.openculture.com/2023/02/do-movie-androids-want-to-love-us-or-kill-us-pretty-much-pop-a-culture-podcast-144.html",
+    "urlToImage": "https://cdn8.openculture.com/2023/02/13050458/PMP-Androids-400-x-800.jpg",
+    "publishedAt": "2023-02-14T08:01:36Z",
+    "content": "https://podtrac.com/pts/redirect.mp3/dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/partiallyexaminedlife/PMP_144_1-24-23.mp3\r\nYour Pretty Much Pop hosts Mark Linsenmayer, Lawrence Ware, Sara… [+973 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Golem.de"
+    },
+    "author": "Moritz Tremmel",
+    "title": "Zero Day: Apple veröffentlicht Notfallpatch",
+    "description": "Apple hat einen Notfallpatch für eine bereits aktiv ausgenutzte Sicherheitslücke veröffentlicht. Betroffen sind iPhones, iPads und Macs. (Apple, Browser)",
+    "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fzero-day-apple-veroeffentlicht-notfallpatch-2302-171897.html&referer=https%3A%2F%2Ft.co%2F67124a2e28",
+    "urlToImage": null,
+    "publishedAt": "2023-02-14T12:16:07Z",
+    "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Ritholtz.com"
+    },
+    "author": "Barry Ritholtz",
+    "title": "Alien Invasion!!!",
+    "description": "Over the weekend, a NATO general was asked by a bright-eyed reporter whether or not the various flying objects that were being shot down might be aliens visiting from elsewhere in the galaxy. His throwaway response of “We don’t rule anything out” was sufficie…",
+    "url": "https://ritholtz.com/2023/02/alien-invasion/",
+    "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/02/UFO.png",
+    "publishedAt": "2023-02-14T14:00:56Z",
+    "content": "Over the weekend, a NATO general was asked by a bright-eyed reporter whether or not the various flying objects that were being shot down might be aliens visiting from elsewhere in the galaxy. His thr… [+5002 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (Hypebeast)",
+    "title": "UFC 285 Trailer Teases Jon Jones vs Ciryl Gane",
+    "description": "After more than two years since his last fight, former Lightweight Champion Jon Jones is now set to enter the Octagon once again. The UFC has now released an official trailer to build anticipation for the UFC 285 Heavyweight main event, Jon Jones vs Ciryl Gan…",
+    "url": "https://hypebeast.com/2023/2/ufc-285-trailer-teases-jon-jones-vs-ciryl-gane",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2Fufc-285-trailer-teases-jon-jones-vs-ciryl-gane-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2023-02-14T02:40:23Z",
+    "content": "After more than two years since his last fight, former Lightweight Champion Jon Jones is now set to enter the Octagon once again. The UFC has now released an official trailer to build anticipation fo… [+921 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (Hypebeast)",
+    "title": "Jony Ive Unveils New Coronation Emblem for King Charles III",
+    "description": "Sir Jony Ive KBE, the infamous former Chief Design Officer at Apple, and his team at creative collective LoveFrom has revealed the new official emblem for the Coronation of His Majesty King Charles III. The new Coronation emblem may now be used with immediate…",
+    "url": "https://hypebeast.com/2023/2/jony-ive-coronation-emblem-king-charles-info",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2Fjony-ive-coronation-emblem-king-charles-info-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2023-02-14T08:26:09Z",
+    "content": "Sir Jony Ive KBE, the infamous former Chief Design Officer at Apple, and his team at creative collective LoveFrom has revealed the new official emblem for the Coronation of His Majesty King Charles I… [+1079 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "HYPEBEAST"
+    },
+    "author": "info@hypebeast.com (Hypebeast)",
+    "title": "Rihanna's Super Bowl Halftime Show Had More Viewers Than the Game Itself",
+    "description": "Rihanna's return to the stage was an unimaginable spectacle for fans around the world. While the Super Bowl itself often garners a great deal of attention already, many tuned in specifically for RihRih's performance of a lifetime. For some, it was just a foot…",
+    "url": "https://hypebeast.com/2023/2/rihanna-super-bowl-lvii-halftime-show-more-views-than-game",
+    "urlToImage": "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F02%2Frihanna-super-bowl-lvii-halftime-show-more-views-than-game-tw.jpg?w=960&cbr=1&q=90&fit=max",
+    "publishedAt": "2023-02-14T02:45:07Z",
+    "content": "Rihanna‘s return to the stage was an unimaginable spectacle for fans around the world. While the Super Bowl itself often garners a great deal of attention already, many tuned in specifically for RihR… [+1768 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "Hadlee Simons",
+    "title": "You told us: You’d only consider switching to Bing for these reasons",
+    "description": "Bing delivers Microsoft Rewards if you use it, while ChatGPT integration is pretty interesting too. But is this enough for you to switch?",
+    "url": "https://www.androidauthority.com/switch-bing-poll-results-3283031/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2021/02/Microsoft-Bing-on-phone-scaled.jpg",
+    "publishedAt": "2023-02-14T07:27:53Z",
+    "content": "Bing has gained a negative reputation over the years, as many people (deservedly or not) view it as a poor alternative to Google. However, Android Authority colleague Calvin Wankhede recently reveale… [+2318 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Authority"
+    },
+    "author": "Gary Sims",
+    "title": "Geekbench 6: What you need to know about the next-generation benchmark",
+    "description": "As Geekbench 6 goes live, we talked to Primate Labs' benchmarking boss John Poole about testing, transparency, and more.",
+    "url": "https://www.androidauthority.com/geekbench-6-3282480/",
+    "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/02/Geekbench-6-app-logo-close.jpg",
+    "publishedAt": "2023-02-14T15:00:07Z",
+    "content": "Primate Labs has just released Geekbench 6, a new version of its popular benchmarking app. The new version includes new tests and new datasets to better measure performance. The new tests include bac… [+7891 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "José Adorno",
+    "title": "Ted Lasso season 3 premieres on Apple TV Plus on March 15",
+    "description": "The wait is almost over, as Apple TV Plus announced Ted Lasso season 3 premieres on March 15. After that, every new Wednesday, Apple will …\nThe post Ted Lasso season 3 premieres on Apple TV Plus on March 15 appeared first on BGR.",
+    "url": "https://bgr.com/entertainment/ted-lasso-season-3-premieres-on-apple-tv-plus-on-march-15/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2023/02/ted-lasso-apple-tv-plus-bgr.jpg?quality=82&strip=all",
+    "publishedAt": "2023-02-14T14:38:44Z",
+    "content": "The wait is almost over, as Apple TV Plus announced Ted Lasso season 3 premieres on March 15. After that, every new Wednesday, Apple will release a new episode. That said, this is the first show that… [+1638 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "José Adorno",
+    "title": "Apple Spring Event: Everything we know so far",
+    "description": "Apple usually holds a spring event every year between March and April. In 2021, its Spring Loaded Event was packed with the first M1 iPad …\nThe post Apple Spring Event: Everything we know so far appeared first on BGR.",
+    "url": "https://bgr.com/tech/apple-spring-event-everything-we-know-so-far/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2021/04/apple-spring-loaded-event-7.jpg?quality=82&strip=all",
+    "publishedAt": "2023-02-14T16:37:07Z",
+    "content": "Apple usually holds a spring event every year between March and April. In 2021, its Spring Loaded Event was packed with the first M1 iPad Pro, the redesigned 24-inch iMac, the new Apple TV, the long-… [+3721 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BGR"
+    },
+    "author": "Maren Estrada",
+    "title": "Today’s deals: $89 robot vacuum, $799 M1 MacBook Air, $50 JBL earbuds, more",
+    "description": "Top deals of the day on Tuesday include a sale that gets you the $340 Lefant M213 robot vacuum for just $89.99. That’s an all-time …\nThe post Today’s deals: $89 robot vacuum, $799 M1 MacBook Air, $50 JBL earbuds, more appeared first on BGR.",
+    "url": "https://bgr.com/deals/todays-deals-89-robot-vacuum-799-m1-macbook-air-50-jbl-earbuds-more/",
+    "urlToImage": "https://bgr.com/wp-content/uploads/2023/01/BGR-Deals-Of-The-Day-2023-Wednesday.jpg?quality=82&strip=all",
+    "publishedAt": "2023-02-14T14:34:00Z",
+    "content": "If you purchase an independently reviewed product or service through a link on our website, we may receive an affiliate commission. Learn more.\r\nTop deals of the day on Tuesday include a sale that ge… [+4903 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Espinof.com"
+    },
+    "author": "Albertini",
+    "title": "'Ted Lasso' vuelve a darnos motivos para creer en el primer tráiler de la temporada 3: la excelente comedia de Apple TV+ regresa con un cambio histórico",
+    "description": "{\"videoId\":\"x8iagme\",\"autoplay\":true,\"title\":\"Ted Lasso — Teaser de la temporada 3\",\"tag\":\"\"}\n \r\n\n\r\n\n Por fin volvemos a ver ese bigote característico de nuestro entrenador favorito. Apple TV+ ha lanzado el primer teaser trailer de la temporada 3 de 'Ted Lass…",
+    "url": "https://www.espinof.com/trailers/ted-lasso-vuelve-a-darnos-motivos-para-creer-primer-trailer-temporada-3-excelente-comedia-apple-tv-regresa-cambio-historico",
+    "urlToImage": "https://i.blogs.es/cb524b/x720/840_560.jpeg",
+    "publishedAt": "2023-02-14T14:54:33Z",
+    "content": "Por fin volvemos a ver ese bigote característico de nuestro entrenador favorito. Apple TV+ ha lanzado el primer teaser trailer de la temporada 3 de 'Ted Lasso'. La excelente y multipremiada comedia r… [+907 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "Stephen Warwick",
+    "title": "Ted Lasso Season 3 release date revealed: March 15",
+    "description": "Apple has confirmed Ted Lasso Season 3 will debut on March 15.",
+    "url": "https://www.imore.com/music-movies-tv/ted-lasso-season-3-release-date-revealed-march-15",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/rGhRjVJxaZPEMKRbG7fiW5-1200-80.jpg",
+    "publishedAt": "2023-02-14T14:25:05Z",
+    "content": "Apple has today announced Ted Lasso season 3 will premiere on March 15.\r\nThe back-to-back Emmy Award-winning show and global phenomenon will return on Wednesday, March 15, with new episodes airing we… [+1740 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "Stephen Warwick",
+    "title": "Only half of some iPhone components made in India are fit for purpose",
+    "description": "A new report details the struggles of Apple's manufacturing push in India.",
+    "url": "https://www.imore.com/apple/only-half-of-some-iphone-components-made-in-india-are-fit-for-purpose",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/yWKc5HdwZDvzHpxKckrVDH-1200-80.jpg",
+    "publishedAt": "2023-02-14T11:47:41Z",
+    "content": "A new inside report claims that Apple is \"hitting stumbling blocks in its effort to increase production in India,\" including issues with very poor yield rates and a distinct lack of urgency clouding … [+2239 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "john-anthony.disotto@futurenet.com (John-Anthony Disotto)",
+    "title": "Legendary iPhone designer creates King Charles’ coronation logo",
+    "description": "Sir Jony Ive has designed the official logo for King Charles III's coronation on May 6 2023.",
+    "url": "https://www.imore.com/apple/legendary-iphone-designer-creates-king-charles-coronation-logo",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/Z7Yx97K7Vd69ZkER7wkTQk-1200-80.jpg",
+    "publishedAt": "2023-02-14T10:23:21Z",
+    "content": "Sir Jony Ive, Apple’s most famous Chief Design Officer, created the official logo for King Charles III’s coronation on May 6, 2023.\r\nThe crest, showcasing a floral design, which is said to represent … [+1903 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "Tammy Rogers",
+    "title": "The 15-inch MacBook Air could be coming sooner than you think",
+    "description": "Ross Young reports that the new MacBook Air, with a 15-inch screen, could be on the way this April.",
+    "url": "https://www.imore.com/mac/macbook/the-15-inch-macbook-air-could-be-coming-sooner-than-you-think",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/3f38WdzHSD6bGbKBY4oSe5-1200-80.jpeg",
+    "publishedAt": "2023-02-14T11:16:31Z",
+    "content": "There has long been rumored a new MacBook Air with a bigger, 15-inch screen. Now, those rumors are reaching a fever pitch as CEO of Display Supply Chain Consultants, Ross Young, reports in a tweet to… [+1527 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "iMore"
+    },
+    "author": "Tammy Rogers",
+    "title": "Apple's newest and best iPad mini is back to its lowest-ever price",
+    "description": "The iPad mini is at its lowest ever price again, saving you $100 in the process.",
+    "url": "https://www.imore.com/ipad/apples-newest-and-best-ipad-mini-is-back-to-its-lowest-ever-price",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/iJVE5iqSubDA8AnAwRBq4e-1200-80.jpg",
+    "publishedAt": "2023-02-14T09:55:45Z",
+    "content": "If you've been watching the iPad mini for a little while, then now is your time to hit the buy button. It has returned to its lowest-ever price, with a $100 discount at Amazon. This price has reared … [+1093 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PetaPixel"
+    },
+    "author": "Jaron Schneider",
+    "title": "Google Photos iOS App Broke Yesterday, But a Fix is Available",
+    "description": "Yesterday, Apple released iOS 16.3.1 which brought with it a few notable updates to iCloud performance, Siri, and FindMy, but it also appeared to break the Google Photos app for many users. Google was quick to address the problem, though, and a fix is availab…",
+    "url": "https://petapixel.com/2023/02/14/google-photos-ios-app-broke-yesterday-but-a-fix-is-available/",
+    "urlToImage": "https://petapixel.com/assets/uploads/2022/12/Google-Photos-is-Dumbing-Down-its-Location-Estimation-Feature.jpg",
+    "publishedAt": "2023-02-14T15:44:37Z",
+    "content": "Yesterday, Apple released iOS 16.3.1 which brought with it a few notable updates to iCloud performance, Siri, and FindMy, but it also appeared to break the Google Photos app for many users. Google wa… [+2111 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "/FILM"
+    },
+    "author": "Lex Briscuso",
+    "title": "Ted Lasso Season 3 Trailer: Ted And The Gang Are Back In March",
+    "description": "If you're anything like me, you've been waiting eagerly for season 3 of \"Ted Lasso\" for what seems like an eternity. But we can now collectively breathe a sigh of relief since the season's first teaser trailer and release date have hit the field.\nIn the new s…",
+    "url": "https://www.slashfilm.com/1198917/ted-lasso-season-3-trailer-ted-and-the-gang-are-back-in-march/",
+    "urlToImage": "https://www.slashfilm.com/img/gallery/ted-lasso-season-3-trailer-ted-and-the-gang-are-back-in-march/l-intro-1676388115.jpg",
+    "publishedAt": "2023-02-14T15:23:24Z",
+    "content": "If you're anything like me, you've been waiting eagerly for season 3 of \"Ted Lasso\" for what seems like an eternity. But we can now collectively breathe a sigh of relief since the season's first teas… [+1403 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": "Alexander Burns",
+    "title": "The U.S., Owning a Powerhouse Microchip-making Industry? Fat Chance, Taiwan's Tech King Told Pelosi.",
+    "description": "\"Fifty billion dollars – well, that’s a good start,\" quipped the 91-year-old Morris Chang, warning that Washington’s new bipartisan industrial policy may not add up.",
+    "url": "https://www.politico.com/news/2023/02/14/taiwan-tech-king-pelosi-powerhouse-microchip-industry-00082646",
+    "urlToImage": "https://static.politico.com/07/d0/02ce89d442d39c470315ae053b5c/https-delivery-gettyimages.com/downloads/1412566158",
+    "publishedAt": "2023-02-14T09:30:00Z",
+    "content": "Pelosi told me in a recent interview that Chang, an engineer trained at MIT and Stanford, began with a light remark.\r\nFifty billion dollars well, thats a good start, Chang said, according to her reco… [+8233 chars]"
+    }
+    ]
+    }
