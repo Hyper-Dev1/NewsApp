@@ -1,14 +1,25 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
 export class NewsItem extends Component {
-  render() {
+
+
+  render() { 
+    let { title, description, imageUrl,newsUrl } = this.props;
     return (
       <div>
-        This is News item2
+        <div className="card" style={{width: "18rem"}}>
+          <img src={!imageUrl?"http://www.pixelstalk.net/wp-content/uploads/2016/06/HD-images-of-nature-download.jpg":imageUrl} className="card-img-top" alt="..." />
+          <div className="card-body">
+            <h5 className="card-title">{title}</h5>
+            <p className="card-text">{description}</p>
+            <a href={newsUrl}target="_blank" className="btn btn-sm btn-primary">
+              Read More
+            </a>
+          </div>
+        </div>
       </div>
-
-    )
+    );
   }
 }
 
-export default NewsItem
+export default NewsItem;
