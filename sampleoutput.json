@@ -1,58 +1,266 @@
 {
     "status": "ok",
-    "totalResults": 4,
+    "totalResults": 69,
     "articles": [
         {
             "source": {
-                "id": "cnn",
-                "name": "CNN"
+                "id": null,
+                "name": "Nintendo Life"
             },
-            "author": "Catherine Thorbecke",
-            "title": "Elizabeth Holmes made an 'attempt to flee the country' after her conviction, prosecutors say",
-            "description": "Elizabeth Holmes made an \"attempt to flee the country\" by booking a one-way ticket to Mexico in January 2022, shortly after the Theranos founder was convicted of fraud, prosecutors alleged in a new court filing Friday.",
-            "url": "https://www.cnn.com/2023/01/20/tech/elizabeth-holmes-mexico/index.html",
-            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230120140438-elizabeth-holmes-1118-file.jpg?c=16x9&q=w_800,c_fill",
-            "publishedAt": "2023-01-20T21:16:13Z",
-            "content": "Elizabeth Holmes made an attempt to flee the country by booking a one-way ticket to Mexico in January 2022, shortly after the Theranos founder was convicted of fraud, prosecutors alleged in a new cou… [+2503 chars]"
-        },
-        {
-            "source": {
-                "id": "engadget",
-                "name": "Engadget"
-            },
-            "author": "Will Shanklin",
-            "title": "NY AG wants answers on Madison Square Garden's use of facial recognition against legal opponents",
-            "description": "New York Attorney General Letitia James has sent a letter to MSG Entertainment, the owner and operator of Madison Square Garden and Radio City Music Hall, asking for information about its use of facial recognition to deny entry to attorneys at firms represent…",
-            "url": "https://www.engadget.com/facial-recognition-ny-ag-letitia-james-msg-entertainment-james-dolan-190450452.html",
-            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-01/80957800-9ce0-11ed-96ef-0f9fad999ba6",
-            "publishedAt": "2023-01-25T19:04:50Z",
-            "content": "New York Attorney General Letitia James has sent a letter to MSG Entertainment, the owner and operator of Madison Square Garden and Radio City Music Hall, asking for information about its use of faci… [+2633 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "https://www.facebook.com/bbcnews",
-            "title": "Beyoncé ticket rush expected as pre-sale begins for UK tour dates",
-            "description": "Demand is expected to be high to see the singer take her acclaimed Renaissance album on the road.",
-            "url": "https://www.bbc.co.uk/news/entertainment-arts-64496382",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AA31/production/_128496534_dda58e43ce64fbd6a1be6877531861c8883cffd20_0_3816_21483816x2148.jpg",
-            "publishedAt": "2023-02-02T09:40:23Z",
-            "content": "Beyoncé fans are bracing themselves for the rush to get tickets for her first solo tour for seven years, as the first pre-sale opens for her UK dates.\r\nO2 customers are the first to have access from … [+2716 chars]"
+            "author": "Ollie Reynolds",
+            "title": "PSA: Watch Out, Zelda: Tears Of The Kingdom Art Book Spoilers Have Leaked Online - Nintendo Life",
+            "description": "Start muting those keywords",
+            "url": "https://www.nintendolife.com/news/2023/02/psa-watch-out-zelda-tears-of-the-kingdom-art-book-spoilers-have-leaked-online",
+            "urlToImage": "https://images.nintendolife.com/9e8260ef21e11/1280x720.jpg",
+            "publishedAt": "2023-02-20T09:30:00Z",
+            "content": "For a lot of us, those leaked images may be the only way we'll be able to get our hands on the artbook, assuming the images are legit.\r\nHere in America, the Collector's Edition sold out in 20 minutes… [+1415 chars]"
         },
         {
             "source": {
                 "id": null,
-                "name": "Entrepreneur"
+                "name": "Gematsu"
             },
-            "author": "Emily Rella",
-            "title": "Man Gets Cut In Line at Publix And Ends Up Winning $1 Million On A Lottery Ticket",
-            "description": "A Delray Beach, Florida man scored a winning scratch-off ticket this week after he was cut off in line at a ticket machine.",
-            "url": "https://www.entrepreneur.com/business-news/man-scores-winning-lottery-ticket-after-being-cut-in-line/443816",
-            "urlToImage": "https://assets.entrepreneur.com/content/3x2/2000/1674837705-GettyImages-14297498792.jpg",
-            "publishedAt": "2023-01-27T16:53:00Z",
-            "content": "Sometimes a minor inconvenience might result in the biggest stroke of luck.\r\nGetty Images\r\nStephen Munoz Espinoza from Delray Beach, Florida won $1 million in a scratch-off ticket this week after he … [+1278 chars]"
+            "author": "Sal Romano",
+            "title": "‘Superpowers x academy RPG’ teased for PS5, PS4, and Switch - Gematsu",
+            "description": "A game company has launched a teaser trailer and Twitter account for a new \"superpowers x academy RPG\" for PlayStation 5, PlayStation 4, and Switch. Details about the game, including its title and…",
+            "url": "https://www.gematsu.com/2023/02/superpowers-x-academy-rpg-teased-for-ps5-ps4-and-switch",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2023/02/2023RPG-Teaser_02-20-23.jpg",
+            "publishedAt": "2023-02-20T06:10:57Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Mike Florio",
+            "title": "PFT Live is taking a quick break, but we’ll be back on February 27 - NBC Sports",
+            "description": "No matter how prominently I state this here, the emails inevitably will arrive tomorrow morning.Where is your show?I can’t find your show.Has NBC finally gotten smart and canceled your show?Last year, we started a new tradition. The week after the week follow…",
+            "url": "https://profootballtalk.nbcsports.com/2023/02/20/pft-live-is-taking-a-quick-break-but-well-be-back-on-february-27/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2023/02/GettyImages-1211703226-e1676872778538.jpg",
+            "publishedAt": "2023-02-20T06:00:00Z",
+            "content": "No matter how prominently I state this here, the emails inevitably will arrive tomorrow morning.\r\nWhere is your show?\r\nI cant find your show.\r\nHas NBC finally gotten smart and canceled your show?\r\nLa… [+3097 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Authority"
+            },
+            "author": null,
+            "title": "Android phones in this country could be very different from global markets - Android Authority",
+            "description": "A time saving tool for developers. It detects outdated browsers and advises users to upgrade to a new version.",
+            "url": "https://www.androidauthority.com/ie.html",
+            "urlToImage": null,
+            "publishedAt": "2023-02-20T05:56:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gematsu"
+            },
+            "author": "Sal Romano",
+            "title": "Assault Suits Valken Declassified announced for Switch - Gematsu",
+            "description": "Publisher Rainmaker Productions and developer M2 have announced Assault Suits Valken Declassified, an updated re-release of the Super Nintendo Entertainment System game Assault Suits Valken…",
+            "url": "https://www.gematsu.com/2023/02/assault-suits-valken-declassified-announced-for-switch",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2023/02/Assault-Suits-Valken-Declassified_2023_02-20-23_001.jpg",
+            "publishedAt": "2023-02-20T04:52:18Z",
+            "content": "Publisher Rainmaker Productions and developer M2 have announced Assault Suits Valken Declassified, an updated re-release of the Super Nintendo Entertainment System game Assault Suits Valken, retransl… [+1257 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Greg Wehner",
+            "title": "Microsoft AI chatbot threatens to expose personal info and ruin a user's reputation - Yahoo Finance",
+            "description": "A Microsoft Bing AI user shared a threatening exchanged with the chatbot, which threatened to expose personal information and ruin his reputation.",
+            "url": "https://finance.yahoo.com/news/microsoft-ai-chatbot-threatens-expose-024521663.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/3Z93RyyoGrbd.4GFp2ZdjA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/fox_business_text_367/1ab2d9bc865a5aa225d45129f9ea0c46",
+            "publishedAt": "2023-02-20T02:45:00Z",
+            "content": "Concerns are starting to stack up for the Microsoft Bing artificially intelligent chatbot, as the AI has threatened to steal nuclear codes, unleash a virus, told a reporter to leave his wife and now … [+3934 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Simon Sharwood",
+            "title": "Linus Torvalds releases 'pedestrian' Linux Kernel 6.2, urges testers to show it some love - The Register",
+            "description": "Intel has as much to celebrate as anyone thanks the arc of progress catching up to its GPUs",
+            "url": "https://www.theregister.com/2023/02/20/linux_kernel_6_2_released/",
+            "urlToImage": "https://regmedia.co.uk/2021/08/23/shutterstock_penguin_swimming.jpg",
+            "publishedAt": "2023-02-20T00:58:00Z",
+            "content": "Linus Torvalds has, as foreshadowed, released version 6.2 of the Linux Kernel.\r\n\"So here we are, right on (the extended) schedule, with 6.2 out,\" Torvalds posted to the Linux Kernel mailing list on S… [+2078 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Niche Gamer"
+            },
+            "author": "bigbear51",
+            "title": "Games Done Quick bans all Harry Potter games, including Hogwarts Legacy - Niche Gamer",
+            "description": "The recently launch of Hogwarts Legacy, the latest video game based on the popular Harry Potter franchise, had been met with a lot of controversy.",
+            "url": "https://nichegamer.com/games-done-quick-bans-harry-potter-hogwarts-legacy/",
+            "urlToImage": "https://media.nichegamer.com/wp-content/uploads/2023/02/hogwarts-legacy-02-19-23-1.jpg",
+            "publishedAt": "2023-02-20T00:01:00Z",
+            "content": "The recently launch of Hogwarts Legacy, the latest video game based on the popular Harry Potter franchise, had been met with a lot of controversy.\r\nThe controversy behind the game is mainly due to or… [+1604 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gematsu"
+            },
+            "author": "Sal Romano",
+            "title": "Rune Factory 3 Special gameplay - ‘A Full Day’s Fantasy Life’ - Gematsu",
+            "description": "Marvelous has released a 10-minute gameplay video of Rune Factory 3 Special showcasing a full in-game day of activities. Here is an overview of the game, via western publishers XSEED Games and…",
+            "url": "https://www.gematsu.com/2023/02/rune-factory-3-special-gameplay-a-full-days-fantasy-life",
+            "urlToImage": "https://www.gematsu.com/wp-content/uploads/2023/02/Rune-Factory-3-Special-Play_02-19-23.jpg",
+            "publishedAt": "2023-02-20T00:00:43Z",
+            "content": "About\r\nRune Factory 3 Special is a remastered and expanded version of the classic RPG / life simulation title. Rune Factory 3 Special brings improved visuals for a new generation along with plenty of… [+1926 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ComicBook.com"
+            },
+            "author": null,
+            "title": "Pinocchio Soulslike Game Lies of P Gets New Release Window - ComicBook.com",
+            "description": null,
+            "url": "https://comicbook.com/gaming/news/lies-of-p-release-pinocchio-game/",
+            "urlToImage": null,
+            "publishedAt": "2023-02-19T23:50:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "The Kim Komando Show",
+            "title": "Don't be a victim: Leaving your phone’s Bluetooth on is a major security risk - Fox News",
+            "description": "Keeping yourself safe from creeps and hackers is a big job, but certain habits make it easier. For instance, stop giving your phone number to every place that asks for it.",
+            "url": "https://www.foxnews.com/tech/dont-be-victim-leaving-your-phones-bluetooth-on-major-security-risk",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/01/1-josemiguels_Pixabay.jpg",
+            "publishedAt": "2023-02-19T23:28:00Z",
+            "content": "Keeping yourself safe from creeps and hackers is a big job, but certain habits make it easier.\r\nHeres a simple one: Stop giving your phone number to every place that asks for it. Read this tip I put … [+4534 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Chance Miller",
+            "title": "What happened at Apple's AI summit for employees - 9to5Mac",
+            "description": "Earlier this month, Apple held its employee-only artificial intelligence summit as an in-person event at Steve Jobs Theater. Now, a report from Bloomberg offers a few details about what did (and didn’t) happen at this event as the AI race continues to heat up…",
+            "url": "https://9to5mac.com/2023/02/19/apple-event-ai-employee-summit/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2019/09/Apple_Keynote-Event_Guests-Steve-Jobs-Theater_091019.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-19T21:20:00Z",
+            "content": "Earlier this month, Apple held its employee-only artificial intelligence summit as an in-person event at Steve Jobs Theater. Now, a report from Bloomberg offers a few details about what did (and didn… [+2148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Android Police"
+            },
+            "author": "Jules Wang",
+            "title": "Samsung didn't upgrade the Galaxy S23 the right way, the Android Police podcast says - Android Police",
+            "description": "Plus, the *buzz* on the Oppo Find N2 Flip",
+            "url": "https://www.androidpolice.com/samsung-didnt-upgrade-the-galaxy-s23-the-right-way-the-android-police-podcast-says/",
+            "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2023/02/ap021923.jpg",
+            "publishedAt": "2023-02-19T21:03:00Z",
+            "content": "Is this a hot take? We don't really think so. For all the changes, the abacus flicks, the eraser shavings that have been spent on moving from Galaxy S22 to S23, Samsung has failed to change some of t… [+725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PhoneArena"
+            },
+            "author": "Alan Friedman",
+            "title": "Google warns iOS, Android users about an upcoming change to location data - PhoneArena",
+            "description": "Google is alerting users of its Photos app on both iOS and Android that it will remove estimated locations of photos and videos you've taken by May 1st.",
+            "url": "https://www.phonearena.com/news/google-warns-about-upcoming-change-to-location-data_id145687",
+            "urlToImage": "https://m-cdn.phonearena.com/images/article/145687-wide-two_1200/Google-warns-iOS-Android-users-about-an-upcoming-change-to-location-data.jpg",
+            "publishedAt": "2023-02-19T20:57:10Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Siege.gg"
+            },
+            "author": null,
+            "title": "Frost traps to receive rework in Year 8 of Siege - SiegeGG",
+            "description": "Frost’s traps will be reworked in a few months.",
+            "url": "https://siege.gg/news/frost-traps-to-receive-rework-in-year-8-of-siege",
+            "urlToImage": "https://cdn.siege.gg/img/articles/3237.fa38748.webp",
+            "publishedAt": "2023-02-19T20:02:35Z",
+            "content": "At the Six Invitational 2023 today, Ubisoft announced more details about the upcoming year of content to be added in Year 8 of Rainbow Six Siege.\r\nYear 8 will kick off on Mar. 7, as was announced yes… [+2154 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Apple Moves to Prevent iPhone Users From Getting iOS 17 Developer Beta for Free - MacRumors",
+            "description": "Starting with the iOS 16.4 beta, the iPhone has a new \"Beta Updates\" menu in the Settings app under General → Software Update. This menu will...",
+            "url": "https://www.macrumors.com/2023/02/19/apple-ios-17-developer-beta-crack-down/",
+            "urlToImage": "https://images.macrumors.com/t/1Cc_6-HuM2hg4Hv1uAHdxCnrywY=/2500x/article-new/2023/01/iOS-17-Icon-Mock-Feature-Feature.jpg",
+            "publishedAt": "2023-02-19T19:21:55Z",
+            "content": "Starting with the iOS 16.4 beta, the iPhone has a new \"Beta Updates\" menu in the Settings app under General Software Update. This menu will allow members of Apple's Developer Program to enable iOS de… [+1774 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dexerto"
+            },
+            "author": "Alec Mullins",
+            "title": "How to make Warzone 2 sniper rifles one-shot kills: MCPR-300 & Victus XMR loadouts - Dexerto",
+            "description": "Looking for a one-shot sniper rifle loadout in Warzone 2? We've got all the details on how to make it happen after the Season 2 update.",
+            "url": "https://www.dexerto.com/call-of-duty/how-to-make-one-shot-kill-snipers-in-warzone-2-2065295/",
+            "urlToImage": "https://editors.dexerto.com/wp-content/uploads/2023/02/05/warzone-snipers-2.jpg",
+            "publishedAt": "2023-02-19T19:10:20Z",
+            "content": "Warzone 2s Snipers are considerably weaker than their Caldera counterparts, but a new Season 2 trick does give a few loadouts one-shot kill potential. Heres how to build one for yourself. \r\nWarzone 2… [+2738 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5google.com"
+            },
+            "author": "Ben Schoon",
+            "title": "9to5Google Weekender: Galaxy S23 Ultra review and other top stories - 9to5Google",
+            "description": "The Samsung Galaxy S23 series launched this week and 9to5Google gave it a full review, and other top stories include YouTube and more.",
+            "url": "https://9to5google.com/2023/02/19/galaxy-s23-top-stories/",
+            "urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/02/samsung-galaxy-s23-ultra-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2023-02-19T19:00:00Z",
+            "content": "This week Samsung launched the Galaxy S23 series and we published our full review. In other news, Android Auto continued its redesign rollout, YouTube’s Susan Wojcicki stepped down, and more.\r\n9to5Go… [+4367 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Car and Driver"
+            },
+            "author": "Eric Stafford",
+            "title": "2021 McLaren Elva without a Windshield Is Our Bring a Trailer Auction Pick - msnNOW",
+            "description": "Even if this crazy open-cockpit rocket leaves you with a face full of bugs, you'd be left smiling.",
+            "url": "https://www.caranddriver.com/news/a42932186/2021-mclaren-elva-bring-a-trailer-auction/",
+            "urlToImage": "https://hips.hearstapps.com/hmg-prod/images/2021-mclaren-elva-bat-lead-1676526328.jpg?crop=1.00xw:0.752xh;0,0.103xh&resize=1200:*",
+            "publishedAt": "2023-02-19T19:00:00Z",
+            "content": "<ul><li>A 2021 McLaren Elva with no windshield is up for auction on Bring a Trailer until Thursday, February 23.</li><li>The limited-production Elva was also offered with a windshield, but this examp… [+2459 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GamePress"
+            },
+            "author": null,
+            "title": "Primal Groudon and Primal Kyogre Confirmed to be Tier 6 Raids - GamePress",
+            "description": "Pokemon GO Wiki, Database, News, and Community for the Pokemon GO Player.",
+            "url": "https://gamepress.gg/pokemongo/primal-groudon-and-primal-kyogre-confirmed-be-tier-6-raids",
+            "urlToImage": "https://gamepress.gg/pokemongo/sites/pokemongo/files/2023-02/Primal_Tier_6.png",
+            "publishedAt": "2023-02-19T18:51:19Z",
+            "content": "Anyone who knows the way that CPs and Raids work will know what that number means: The Primals are Tier-6 Raids.\r\nSo what exactly is a Tier 6 raid? In essence, it's the next level beyond Tier 5/Mega … [+530 chars]"
         }
     ]
 }
